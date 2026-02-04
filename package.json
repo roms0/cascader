@@ -1,6 +1,9 @@
 {
-  "name": "cascader",
-  "version": "1.0.0-alpha.5",
+  "name": "@romyi/cascader",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0-alpha.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
